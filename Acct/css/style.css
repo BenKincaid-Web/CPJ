@@ -1,0 +1,42 @@
+html {
+  font-size: 20px;
+  overflow-x: hidden; }
+
+body {
+  width: 100%;
+  margin: 0;
+  padding: 0; }
+
+*, *:before, *:after {
+  box-sizing: border-box; }
+
+.container {
+  width: 90%;
+  display: block;
+  text-align: center;
+  margin: 0 auto; }
+
+.form {
+  width: 600px;
+  margin: 0 auto; }
+  .form p {
+    text-align: left;
+    display: inline-block;
+    width: 40%;
+    margin: 0px; }
+  .form input {
+    width: 30%;
+    left: 10%;
+    position: relative;
+    display: inline-block; }
+  .form .sub {
+    font-size: 0.7em;
+    width: 90%;
+    left: 5%;
+    text-align: left;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 40px;
+    padding-top: 20px; }
+
+/*# sourceMappingURL=style.css.map */
